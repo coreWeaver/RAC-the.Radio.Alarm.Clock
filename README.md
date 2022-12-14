@@ -11,7 +11,7 @@ Subscribe to my Youtube channel here: https://www.youtube.com/@coreWeaver
 
 There's gonna be a second version of the PCB, for SMD components only. I'll upload it here as soon as I polish the details. 
 
-If you enjoy this project and you find it useful you can buy me a coffee: https://ko-fi.com/coreweaver
+If you enjoy this project you can buy me a coffee: https://ko-fi.com/coreweaver or support me here: https://paypal.me/coreWeaver 
 
 
 Best,
