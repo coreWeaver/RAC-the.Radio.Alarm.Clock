@@ -1,0 +1,3 @@
+Fusebits:		FF
+Fusebits High:		D1
+Fusebits Extended:	FF
